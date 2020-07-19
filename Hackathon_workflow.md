@@ -23,19 +23,19 @@ I personally think we have a lot of work in cryptography here, I'll keep digging
 ###### Jack and Can
 Week2: 
 - Discussion on the architecture, settle the SRS
-- Deploy related environment
+- Deploy related environment  
 Week3: 
 - Development on the smart-contract
 - Copy the website frontend from the block
-- Get familiar with the Filecoin
+- Get familiar with the Filecoin  
 Week4:
 - finish the demo
 ###### Xin and Potter
 Week2: 
 - Discussion on the architecture
-- Start to prepare the logo, picture and other things need to be shown in the demo
+- Start to prepare the logo, picture and other things need to be shown in the demo  
 Week3:
-- Prepare a deck and finish other paperwork
+- Prepare a deck and finish other paperwork  
 Week4:
 - Video demo presentation
 
